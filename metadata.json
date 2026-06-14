@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Profile README Generator",
+  "description": "A high-performance premium GitHub Profile README Generator with interactive tech stack badges, social profiles, stats cards, and true Markdown code block with one-click copy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
